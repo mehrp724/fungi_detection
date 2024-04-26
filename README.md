@@ -1,3 +1,3 @@
 # fungi detection
 
-The data set will be availbe online when the paper publiched.
+The dataset will be available online when the paper published.
